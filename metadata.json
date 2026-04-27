@@ -1,0 +1,13 @@
+{
+  "name": "Solar Automation AI",
+  "description": "Enterprise-grade solar business automation platform with WhatsApp integration, EspoCRM sync, and Gemini AI chatbots.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Automation",
+    "Real-time Messaging",
+    "API Integrations"
+  ]
+}
